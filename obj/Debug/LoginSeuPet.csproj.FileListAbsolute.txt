@@ -1,0 +1,10 @@
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\bin\Debug\LoginSeuPet.exe.config
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\bin\Debug\LoginSeuPet.exe
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\bin\Debug\LoginSeuPet.pdb
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.csprojAssemblyReference.cache
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.Form1.resources
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.Properties.Resources.resources
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.csproj.GenerateResource.cache
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.csproj.CoreCompileInputs.cache
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.exe
+C:\Users\barbosa\source\repos\SeupetTela\LoginSeuPet\obj\Debug\LoginSeuPet.pdb
